@@ -4,6 +4,7 @@ import Navbar from "./Navbar"
 import SearchBar from "./SearchBar"
 import SearchFeed from "./SearchFeed"
 import VideoDetail from "./VideoDetail"
+import Sidebar from "./Sidebar"
 
 
 export {
@@ -12,5 +13,6 @@ export {
     Navbar,
     SearchFeed,
     VideoDetail,
-    SearchBar
+    SearchBar,
+    Sidebar
 }
